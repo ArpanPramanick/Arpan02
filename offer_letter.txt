@@ -1,0 +1,45 @@
+Hello,
+
+The following submission has been created.
+
+Track Name: EAIT2024
+
+Paper ID: 97
+
+Paper Title: IoMT-based Point-of-Care Testing for PCOS Diagnosis using Dempster Shafer Theory of Evidence
+
+Abstract:
+Polycystic Ovary Syndrome (PCOS) is a significant health
+problem common in many women globally in their fertile ages. Also,
+PCOS is associated with greater risks of developing life-threatening and
+long term health issues, as their body is unresponsive to the produced
+insulin properly. Hence, early identification and appropriate medical help
+at the outset will lower the risk of developing long-term complications
+related to PCOS. Diagnosing PCOS is not always simple and straightforward. Complexity associated with the diagnostic process has increased
+due to multifarious symptoms and probable deviation in the conditions.
+Thus, depending solely on pelvic ultrasound is not adequate to make
+complete diagnosis of PCOS. Other detection criteria are also required
+to secure a comprehensive diagnosis of PCOS. Our research in this paper
+addresses smart diagnosis of PCOS from various data with the integration of internet of Medical Things (IoMT) based point of care testing
+(POCT) technologies. With the help of this architecture, remote patient
+monitoring and "on-spot" support of patients is possible in real-time. In
+this work, we have adopted Dempster-Shafer-Theory of Evidence (DSTE) for fusing data accumulated from several sources to derive a conclusion
+about PCOS diagnosis. The result reveals a substantially high percentage
+of accuracy (up to 96.67%).
+
+Created on: Wed, 30 Aug 2023 04:55:50 GMT
+
+Last Modified: Wed, 30 Aug 2023 04:55:50 GMT
+
+Authors:
+     - tamosa.hit.it@gmail.com (Primary)
+     - arpan069.hitit2020@gmail.com 
+     - nashreen@aliah.ac.in 
+
+Secondary Subject Areas: Not Entered
+Submission Files:     IoMT_based_Point_of_Care_Testing_for_PCOS_Diagnosis_using_Dempster_Shafer_Theory_of_Evidence (1).pdf (632 Kb, Wed, 30 Aug 2023 04:55:37 GMT) 
+
+Submission Questions Response: Not Entered  
+
+Thanks,
+CMT team.
